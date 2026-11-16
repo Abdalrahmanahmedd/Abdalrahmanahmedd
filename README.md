@@ -67,7 +67,7 @@ A Python-based project using SSH and Fabric to remotely investigate Linux authen
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+- **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/abdalrahmanahmed54)
 - **GitHub:** [@Abdalrahmanahmedd](https://github.com/Abdalrahmanahmedd)
 
 ---
